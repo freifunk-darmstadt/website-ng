@@ -3,7 +3,7 @@
 Freifunk Darmstadt ist ein Projekt des [Chaos Computer Club Darmstadt e.V.](https://www.chaos-darmstadt.de),
 der im Vereinsregister des Amtsgerichts Darmstadt unter der Vereinregisternummer 3413 eingetragen ist.
 
-Der Verein ist gemeinnützig und finanziert sich über Mitgliedsbeiträge und [Spenden](spenden).
+Der Verein ist gemeinnützig und finanziert sich über Mitgliedsbeiträge und [Spenden](spenden.md).
 
 ## Postanschrift
 <blockquote>
@@ -13,4 +13,4 @@ Der Verein ist gemeinnützig und finanziert sich über Mitgliedsbeiträge und [S
 </blockquote>
 
 ## Bankverbindung
-Unsere Bankverbindung findest du auf der [Spendenseite](spenden).
+Unsere Bankverbindung findest du auf der [Spendenseite](spenden.md).

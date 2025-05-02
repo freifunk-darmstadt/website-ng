@@ -27,11 +27,8 @@ theme:
         name: Switch to light mode
 nav:
   - Home: index.md
-  - Mitmachen: 
-    - Einstieg: mitmachen/index.md
-    - Kaufberatung: mitmachen/kaufberatung.md
-  - Projekte: projekte.md
-  - Technik: technik.md
+  - Anleitung für den ersten Freifunk-Knoten: mitmachen/erster-freifunk-knoten.md
+  - Kaufberatung: mitmachen/kaufberatung.md
   - Spenden: spenden.md
   - Einzugsgebiet: einzugsgebiet.md
   - Impressum: impressum.md
