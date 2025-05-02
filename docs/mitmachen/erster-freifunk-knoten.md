@@ -1,10 +1,18 @@
-# Mitmachen
+# Dein erster Freifunk-Knoten
 
-Klasse, dass du bei uns Mitmischen möchtest! Wir haben hier für dich den typischen Weg zusammengefasst, über den
-viele unserer aktiven Community-Mitglieder zu uns gefunden haben.
+Klasse, dass du bei uns Mitmischen möchtest!
 
-## Freifunk-Knoten aufstellen
-### Einen Freifunk-Knoten bekommen
+Solltest du an einer stelle Hilfe benötigen, so kannst du dich gerne in unserem
+[Chat](https://matrix.to/#/#ffda:hackint.org), im [Forum](https://forum.darmstadt.freifunk.net/) oder an 
+[info@darmstadt.freifunk.net](mailto:info@darmstadt.freifunk.net) melden.
+Wir helfen dir gerne weiter!
+
+!!! warning "Größere Installationen"
+    Falls du eine größere Installation planst (mehr als 4 Geräte), so kontaktiere uns bitte frühzeitig.
+    Insbesondere bevor du Geräte kaufst, damit wir dir helfen können, die richtige Hardware auszuwählen;
+    aber auch um die Netzauslastung zu planen.
+
+## Einen Freifunk-Knoten bekommen
 
 Das Freifunk-Netz ist ein Mesh-Netzwerk, das von vielen einzelnen Knoten gebildet wird. Als Knoten bezeichnen wir das
 Gerät, über welches du ins Freifunk-Netz mit deinem Laptop, Tablet oder Smartphone einsteigst.
@@ -18,7 +26,7 @@ Firmware bespielt wird. Unsere Firmware basiert wie die vieler anderer Freifunk-
 
 Wir unterstützen viele verschiedene Geräte, welche du auf unserer Firmware-Seite findest.
 
-Solltest du noch kein kompatibles Gerät besitzen, so haben wir dir auf unserer Webseite auch einen Empfehlungs-Guide
+Solltest du noch kein kompatibles Gerät besitzen, so haben wir dir auf unserer Webseite auch einen [Empfehlungs-Guide](./kaufberatung.md)
 zusammengestellt.
 
 !!! tip "Gebrauchtgeräte"
@@ -27,7 +35,7 @@ zusammengestellt.
     eines Studiums um und haben dann keine Verwendung mehr für ihren Knoten, den sie dir gerne umsonst oder für wenig
     Geld überlassen.
 
-### Firmware installieren
+## Firmware installieren
 
 !!! warning "Garantie"
     Die Installation der Firmware auf deinem Gerät kann dazu führen, dass die Garantie des Herstellers erlischt.
@@ -46,17 +54,9 @@ Anleitung
 2. Bei vielen Geräten ist auf unserer Firmware-Seite eine Anleitung verlinkt, die dir Schritt
 für Schritt erklärt, wie du die Firmware auf deinem Gerät installierst.
 
-<Bild>
+Falls du zur Installation ein spezielles Kabel benötigst können wir dir dieses oft auch gerne ausleihen.
 
-
-
-!!! question "Hilfe benötigt?"
-    Solltest du Hilfe benötigen, so kannst du dich gerne in unserem Chat melden.
-
-    Falls du zur Installation ein spezielles Kabel benötigst können wir dir dieses oft auch gerne ausleihen.
-
-
-### Knoten konfigurieren
+## Knoten konfigurieren
 
 Nach der Installation der Firmware musst du deinen Knoten noch konfigurieren. Hierbei unterstützt dich unser
 Konfigurationsmodus, welcher bei der ersten Inbetriebnahme automatisch startet.
@@ -93,7 +93,7 @@ sind.
 
 Wenn du alles eingestellt hast kannst du am Ende der Seite die Einstellungen speichern und deinen Knoten neu starten.
 
-### VPN-Key freischalten
+## VPN-Key freischalten
 
 Nachdem du deinen Knoten konfiguriert hast, musst du noch deinen VPN-Key freischalten. Dieser wird benötigt, damit
 unsere Server deinen Knoten als Teil des Freifunk-Netzes erkennen.
