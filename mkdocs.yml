@@ -4,7 +4,7 @@ theme:
   name: material
   language: de
   logo: assets/logo/ff-500px.png
-  favicon: assets/fa-share-favicon.svg
+  favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
   features:
