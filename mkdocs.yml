@@ -35,6 +35,20 @@ nav:
 plugins:
   - search
   - privacy
+  - redirects:
+      redirect_maps:
+        'news.md': 'https://chaos.social/@ffda'
+        'karte.md': 'https://meshviewer.darmstadt.freifunk.net'
+        'mitmachen/unterstuetzte-geraete.md': 'mitmachen/kaufberatung.md'
+        'mitmachen.md': 'mitmachen/erster-freifunk-knoten.md'
+        'mitmachen/router-einrichten.md': 'mitmachen/erster-freifunk-knoten.md'
+        'mitmachen/spenden.md': 'spenden.md'
+        'mitmachen/domains.md': 'einzugsgebiet.md'
+        'mitmachen/mithelfen.md': 'index.md'
+        'was-ist-freifunk.md': 'index.md'
+        'was-ist-freifunk/faq.md': 'index.md'
+        'chat.md': 'index.md'
+        'kontakt.md': 'index.md'
 extra:
   social:
     - icon: fontawesome/brands/github
