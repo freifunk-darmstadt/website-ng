@@ -17,3 +17,22 @@ jobs:
         with:
           path: site
           name: website
+
+  deploy:
+    needs: [ build-homepage ]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: website
+          path: website_data
+
+      - name: Save SSH Key for deployment
+        run: >
+          mkdir -p ~/.ssh &&
+          echo "${{ secrets.GHA_FFDA_WEB_DEPLOY_SSH_KEY }}" >
+          ~/.ssh/deploy_key && chmod 600 ~/.ssh/deploy_key
+
+      - name: Deploy website to www3
+        run: rsync -avzP -e "ssh -q -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -i ~/.ssh/deploy_key -oIdentitiesOnly=yes" website_data "ffda_web@www3.darmstadt.freifunk.net:/var/www/darmstadt_freifunk_net"
