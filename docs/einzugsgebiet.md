@@ -25,7 +25,7 @@ Beachte bitte, dass Knoten nur meshen können, falls sie sich innerhalb der glei
 	function mapinit() {
 		var map = L.map('map').setView([49.857906725, 8.743057251], 9);
 
-		L.tileLayer('https://tiles.darmstadt.freifunk.net/{z}/{x}/{y}.png', {
+		L.tileLayer('https://tiles.darmstadt.freifunk.net/osm/{z}/{x}/{y}.png', {
 			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
 
