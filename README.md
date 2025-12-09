@@ -17,6 +17,8 @@ The framework allows you to use various markdown extendions which are documented
 You can spawn a local development server by running `mkdocs serve` in the root directory
 of this repository.
 
+### Docker
+
 To run this in a docker container with the same environment as the CI/CD pipeline, you
 can use the following command:
 
@@ -25,3 +27,7 @@ docker run -it --rm --volume $(pwd):/docs ghcr.io/squidfunk/mkdocs-material:9.5.
 ```
 
 Make sure you are in the root directory of this repository when running this command.
+
+### Nix
+
+For Nix users there is a `shell.nix` with the requiered dependencies.
