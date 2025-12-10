@@ -71,6 +71,7 @@ Diese Klassen sind untereinander nach Installationsart gruppiert
     | Gerät (Anleitung) | Stromversorgung | Montagemöglichkeiten | Ethernetports | Wi-Fi Standard | Preis | 
     |-------------------|-----------------|----------------------|---------------|----------------|-------|
     | [Zyxel NWA50AX Pro](https://github.com/openwrt/openwrt/commit/f0445746f6fd96fc7c5394b238153bd2ff22bc5b) | Netzteil / [PoE](https://de.wikipedia.org/wiki/Power_over_Ethernet) | Deckenmontage | 2.5 GBit/s | Wi-Fi 6 802.11ax | [90 €](https://geizhals.de/zyxel-nwa50ax-pro-nwa50axpro-eu0102f-a2974098.html) |
+    | [ASUS RT-AX52](https://openwrt.org/toh/asus/rt-ax52#installation) | Netzteil | Keine | 1+3 | Wi-Fi 6 802.11ax | [40 €](https://geizhals.de/asus-rt-ax52-90ig08t0-mo3h00-a3031824.html) |
 
 === "SSH"
 
