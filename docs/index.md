@@ -22,7 +22,7 @@ Wir haben darüber hinaus auch einen Issue-Tracker auf [GitHub](https://github.c
 wo wir nicht nur unsere Softwareprojekte verwalten, sondern auch nicht-technische Aufgaben verwalten.
 
 
-Unser nächstes <strong>Treffen</strong> findet am <strong><span id="next_meet_date">zweiten Montag im Monat</span></strong> um <strong>19:30</strong> Uhr statt.
+Unser nächstes <strong>Treffen</strong> findet am <strong><span id="next_meet_date">ersten Montag im Monat</span></strong> um <strong>19:30</strong> Uhr statt.
 Das Treffen findet im Raum [FreifunkDarmstadtPlenum](https://meet.ffmuc.net/FreifunkDarmstadtPlenum) auf dem Jitsi Meet Server von Freifunk München statt.
 Die Teilnahme ist mittels der Jitsi Apps, per Browser sowie über die Telefoneinwahl möglich.
 Im [Forum](https://forum.darmstadt.freifunk.net/t/freifunk-treffen-am-13-april-2020-online/847) sind weitere Details zu finden.
