@@ -12,10 +12,10 @@ Dies erfolgt ausschließlich auf Basis freiwilliger Unterstützung vieler Mensch
 Wir suchen immer wieder nach Sachspenden:
 
  - Access Points und Router
-     - Alle von Freifunk Darmstadt [unterstützte Geräte](https://firmware.darmstadt.freifunk.net/).
+     - Alle von Freifunk Darmstadt [unterstützten Geräte](https://firmware.darmstadt.freifunk.net/).
      - Bei größeren Stückzahlen auch andere noch nicht unterstützte Geräte, aber auch dann keine Cisco APs.
  - Server
-     - 19" Rack Server welche nicht älter als 7 Jahre sind.
+     - 19" Rack Server, welche nicht älter als 7 Jahre sind.
  - Switches
      - PoE Switche, passiv gekühlt
      - PoE Switche, aktive gekühlt ab Gbit/s
@@ -30,12 +30,12 @@ Wir suchen immer wieder nach Sachspenden:
 Wir suchen auch:
 
  - IPv4 Space
- - Server Collocation in einem Rechenzentrum
+ - Server Colocation in einem Rechenzentrum
  - Rechenzeit für Buildserver
 
 ## Überweisung für Freifunk Forschung an Chaos Computer Club Darmstadt e.V.
-Solltest Du Dich auch finanziell regelmäßigen oder einmaligen Spende zu unterstützenmöchtest, freuen wir uns über
-eine Spende an den Chaos Computer Club Darmstadt e.V., mit dem Betreff Freifunk.
+Wenn Du uns auch finanziell mit einer regelmäßigen oder einmaligen Spende unterstützen möchtest, dann freuen wir uns über
+eine Spende an den Chaos Computer Club Darmstadt e.V.
 
 Am einfachsten kannst Du uns Deine Spende direkt per Dauerauftrag oder Überweisung an das nachfolgende Bankkonto vornehmen:
 

@@ -7,15 +7,15 @@ Ebenso verfügen sie über mindestens Wi-Fi 5 und unabhängig von der WLAN-Gener
 
 !!! note "Andere Empfehlungen"
     Viele Freifunk-Communitys haben eigene Empfehlungen für Hardware.
-    Insbesondere Empfehlen manche Communitys noch Geräte, welche schlechter und teurer als die hier empfohlenen Geräte sind.
+    Insbesondere empfehlen manche Communitys noch Geräte, welche schlechter und teurer als die hier empfohlenen Geräte sind.
     Es gibt keinen Grund, diese Geräte zu kaufen, da sie nicht mehr zeitgemäß sind.
 
-Wir haben die Geräte nach Anwndungsfall in drei Kategorien
+Wir haben die Geräte nach Anwendungsfall in drei Kategorien
 unterteilt:
 
- - **Empfohlen** Diese Geräte, haben wir selbst getestet und sind in der Praxis bewährt. Sie unterstützen aktuelle WLAN-Standards und sind neu im Handel erhältlich.
+ - **Empfohlen** Diese Geräte, haben wir selbst getestet und sie haben sich in der Praxis bewährt. Sie unterstützen aktuelle WLAN-Standards und sind neu im Handel erhältlich.
 
- - **Günstig** Diese Geräte sind oft günstig erhältlich. Sie unterstützen nur ältere WLAN-Standards und sind daher etwas langsamer und unterstützen weniger gleichzeitig verbundene Nutzer.
+ - **Günstig** Diese Geräte sind oft günstig erhältlich. Sie unterstützen nur ältere WLAN-Standards und sind daher etwas langsamer. Sie unterstützen weniger gleichzeitig verbundene Nutzer.
 
  - **Experimentell** Diese Geräte sind bisher nicht in unserem stabilen Firmware-Release enthalten. Sie sind allerdings entweder attraktiv bepreist oder bieten besondere Features.
 
@@ -24,9 +24,9 @@ Diese Klassen sind untereinander nach Installationsart gruppiert
 
  - **Webinterface** Diese Geräte können über ein Webinterface geflasht werden. Das ist besonders einfach und für Einsteiger geeignet.
 
- - **TFTP** Diese Geräte müssen über (T)FTP geflasht werden. Das ist etwas komplizierter, anleitungen sind aber verlinkt.
+ - **TFTP** Diese Geräte müssen über (T)FTP geflasht werden. Das ist etwas komplizierter, Anleitungen sind aber verlinkt.
 
- - **SSH** Diese Geräte müssen über SSH geflasht werden. Das ist etwas komplizierter, anleitungen sind aber verlinkt.
+ - **SSH** Diese Geräte müssen über SSH geflasht werden. Das ist etwas komplizierter, Anleitungen sind aber verlinkt.
 
 <!--
  - **Serielles Kabel** Diese Geräte müssen über ein serielles Kabel geflasht werden. Das ist die komplizierteste Methode und benötigt spezielle Hardware.
