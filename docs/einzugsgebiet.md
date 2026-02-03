@@ -1,5 +1,5 @@
 # Einzugsgebiet
-Freifunk ist Dezentral und wird von vielen verschiedenen Communities betrieben.
+Freifunk ist dezentral und wird von vielen verschiedenen Communities betrieben.
 Nur Knoten innerhalb der gleichen Community können miteinander meshen.
 
 ## Domains
@@ -44,5 +44,5 @@ Falls du außerhalb des Darmstädter Freifunk-Netzes bist, wende dich bitte an e
 - [Freifunk Wiesbaden](https://www.wiesbaden.freifunk.net/)
 - [Freifunk Rhein-Neckar](https://www.freifunk-rhein-neckar.de/)
 
-Auf der [Karte von freifunk.net](https://freifunk.net/wie-mache-ich-mit/community-finden/) fiendest du alle Freifunk-Communities in Deutschland.
+Auf der [Karte von freifunk.net](https://freifunk.net/wie-mache-ich-mit/community-finden/) findest du alle Freifunk-Communities in Deutschland.
 
