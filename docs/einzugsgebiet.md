@@ -40,7 +40,7 @@ Beachte bitte, dass Knoten nur meshen können, falls sie sich innerhalb der glei
 ## Nachbarn
 Falls du außerhalb des Darmstädter Freifunk-Netzes bist, wende dich bitte an eine Community in deiner Nähe.
 
-- [Freifunk Frankfurt](https://www.ffm.freifunk.net/)
+- [Freifunk Frankfurt](https://ffm.freifunk.net/)
 - [Freifunk Wiesbaden](https://www.wiesbaden.freifunk.net/)
 - [Freifunk Rhein-Neckar](https://www.freifunk-rhein-neckar.de/)
 
