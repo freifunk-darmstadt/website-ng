@@ -26,6 +26,12 @@ can use the following command:
 docker run -it --rm --volume $(pwd):/docs ghcr.io/squidfunk/mkdocs-material:9.5.18 serve
 ```
 
+Or if you're using podman:
+
+```bash
+podman run -it --rm -p 127.0.0.1:8000:8000 --volume $(pwd):/docs ghcr.io/squidfunk/mkdocs-material:9.5.18 serve -a 0.0.0.0:8000
+```
+
 Make sure you are in the root directory of this repository when running this command.
 
 ### Nix
