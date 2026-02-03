@@ -2,8 +2,8 @@
 
 Klasse, dass du bei uns Mitmischen möchtest!
 
-Solltest du an einer stelle Hilfe benötigen, so kannst du dich gerne in unserem
-[Chat](https://matrix.to/#/#ffda:hackint.org), im [Forum](https://forum.darmstadt.freifunk.net/) oder an 
+Solltest du an einer Stelle Hilfe benötigen, so kannst du dich gerne in unserem
+[Chat](https://matrix.to/#/#ffda:hackint.org), im [Forum](https://forum.darmstadt.freifunk.net/) oder bei 
 [info@darmstadt.freifunk.net](mailto:info@darmstadt.freifunk.net) melden.
 Wir helfen dir gerne weiter!
 
@@ -20,8 +20,8 @@ Gerät, über welches du ins Freifunk-Netz mit deinem Laptop, Tablet oder Smartp
 !!! note "Freifunk-Knoten"
     Freifunk-Knoten werden oft auch "Freifunk-Router" genannt.
 
-Ein solcher Freifunk-Knoten ist oft ein Handelsüblicher WLAN-Router oder Access-Point, der mit unserer speziellen
-Firmware bespielt wird. Unsere Firmware basiert wie die vieler anderer Freifunk-Communities auf
+Ein solcher Freifunk-Knoten ist oft ein handelsüblicher WLAN-Router oder Access-Point, der mit unserer speziellen
+Firmware bespielt wird. Unsere Firmware basiert, wie die vieler anderer Freifunk-Communities, auf
 [Gluon](https://www.github.com/freifunk-gluon/gluon).
 
 Wir unterstützen viele verschiedene Geräte, welche du auf unserer Firmware-Seite findest.
